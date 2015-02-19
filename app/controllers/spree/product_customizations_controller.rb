@@ -1,5 +1,5 @@
 module Spree
-  class ProductCustomizationsController < Spree::BaseController
+  class ProductCustomizationsController < BaseController
     include ProductCustomizations
 
     # POST /product_customizations/price
